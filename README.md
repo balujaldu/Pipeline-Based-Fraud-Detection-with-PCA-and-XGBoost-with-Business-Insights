@@ -11,6 +11,9 @@ The optimized model, with PCA set at 0.80 and XGBoost configured with a tree dep
 Overall, this project not only demonstrates the effectiveness of combining dimensionality reduction with ensemble learning for fraud detection but also highlights how machine learning models can provide actionable insights for business decision-making and fraud prevention strategies.
 
 
+dataset link:https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset
+
+
 tech stack:
 Python
 Pandas, NumPy – Data cleaning & preprocessing
