@@ -19,4 +19,4 @@ Python
 Pandas, NumPy – Data cleaning & preprocessing
 Scikit-learn – PCA, Pipeline, GridSearchCV, StratifiedKFold
 XGBoost – Model training
-Matplotlib, Seaborn – Visualization & business analysis
+Matplotlib, Seaborn – Visualization & business analysis.
