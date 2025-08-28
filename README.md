@@ -1,0 +1,2 @@
+# Pipeline-Based-Fraud-Detection-with-PCA-and-XGBoost-with-Business-Insights
+Developed a fraud detection system using the highly imbalanced Kaggle Fraud Detection dataset. Performed comprehensive data cleaning and preprocessing, applied PCA for dimensionality reduction, and implemented an XGBoost model within a pipeline. To handle class imbalance and improve generalization, utilized Stratified K-Fold Cross Validation.
